@@ -34,8 +34,6 @@ A simple web application that generates random inspirational quotes to motivate 
 
 ![image](https://github.com/CoderCali/quote.codercali.io/assets/116227064/1ea4acaf-8b1b-4069-9b5e-6e9b2e8fc8e2)
 
-
-Valid CSS!
 <p>
     <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -44,7 +42,6 @@ Valid CSS!
     </a>
 </p>
             
-Valid CSS!
 <p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -52,6 +49,8 @@ Valid CSS!
         alt="Valid CSS!" />
     </a>
 </p>
+
+Application works on Google Chrome And Edge browsers.
         
 
 
