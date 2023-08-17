@@ -50,7 +50,7 @@ A simple web application that generates random inspirational quotes to motivate 
     </a>
 </p>
 
-Application works on Google Chrome And Edge browsers.
+Application works on Google Chrome And Edge browsers and compatible with multiple screen sizes.
         
 
 
